@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day03</string>
+    <string name="profile_anda">Profile Anda</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="umur_anda">Umur Anda</string>
+    <string name="alamat_anda">Alamat Anda</string>
+    <string name="ini_adalah_page_baru">ini adalah page baru</string>
+</resources>
